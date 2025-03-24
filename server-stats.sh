@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# server-stats.sh - A script to analyze basic server performance stats
-# Author: Your Name
-# Date: $(date +"%Y-%m-%d")
+# A script to analyze basic linux server performance stats
 
 # ANSI color codes for better readability
 GREEN='\033[0;32m'
